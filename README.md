@@ -15,7 +15,7 @@ I've made additions and modifications along the way.
 <br>
 
 >## Website 💻
-+ [Blog Page](https://blog-codelandia.netlify.app/)
++ [Blog Page](https://boxtur-landingpage.netlify.app/)
 
 <br>
 
